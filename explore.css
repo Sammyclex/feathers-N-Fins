@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.h1{
+padding: 40px;
+
+}
+
+.pp
+{padding: 50px;
+    font-size: 30px;
+
+}
+#stress{
+
+    padding: 40px;
+    padding-left: 2rem;
+    margin: 3px;
+
+}
+
+.p{
+    font-size: 30px;
+    margin-left: 3rem;
+
+}
+
+.choice{
+
+}
+
+
+.more{
+font-size: 25px;
+padding: 40px;
+    padding-left: 2rem;
+    margin: 3px;
+}
+
+
+
+
+.showus{
+display: flex;
+}
+
+.goods{
+    background-color:;
+    padding: 100px;
+    gap: 150px;
+    display: flex;
+    justify-items: center;
+    /* align-items: center;
+    justify-content: space-between; */
+   
+
+}
+.hens{
+    /* padding: 50px; */
+}
+
+.mine{
+    /* padding: 50px; */
+}
+
+.now{
+    /* padding: 50px; */
+}
+
+
+.money{
+    padding: 100px;
+    gap: 150px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.side{
+    /* padding: 0px; */
+}
+
+.caught{
+    /* padding: 50px; */
+}
